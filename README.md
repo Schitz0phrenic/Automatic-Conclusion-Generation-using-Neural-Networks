@@ -8,9 +8,9 @@ We build our approach upon the work of the following authors:
 - The BART model by Lewis et al. (2019) (https://arxiv.org/abs/1910.13461)
 
 ## Requirements
-We suggest the following packages to be installed:
-- flair
-- transformers
+The requirements can be found in ```requirements.txt```. To install them run ```pip install -r requirements.txt```.
+
+Furthermore, the models we used in our paper can be found at https://tzoellner.de/models.zip . We added example files that show how to use the models.
 
 ## Project structure
 This Project contains three libraries:
